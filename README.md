@@ -19,8 +19,7 @@ By default, Grafana uses port 3000. You can choose a different port if you prefe
 For more detailed Instructions Refer this medium Article:  https://medium.com/@arpitsah_96506/visualize-and-monitor-your-machine-learning-systems-with-grafana-1ec8fb144a12
 
 
-
-'''
+```
 conda create -n myenv python=3.8
 pip install scikit-surprise
 pip install prometheus-client
@@ -28,5 +27,4 @@ pip install prometheus-client
 # If you've downloaded the .yml file from github you can use the command below 
 # else proceed further
 conda env create --name environment_name --file environment.yml
-'''
-
+```
