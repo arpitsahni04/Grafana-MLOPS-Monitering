@@ -1,4 +1,4 @@
-# Grafana-MLOPS-Monitering
+# Monitering Your Machine Learning System with Prometheus and Grafana 
 A tutorial Explaining how to setup Grafana for Monitoring a Movie recommendation System
 
 ## Introduction
